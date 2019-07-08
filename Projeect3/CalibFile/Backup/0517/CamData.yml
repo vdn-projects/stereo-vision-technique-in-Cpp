@@ -1,0 +1,7 @@
+%YAML:1.0
+CamData: !!opencv-matrix
+   rows: 1
+   cols: 4
+   dt: d
+   data: [ 3.5, 6.8182e-003,
+       55, 40.54 ]
