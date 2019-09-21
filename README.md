@@ -4,7 +4,7 @@ This project was implemented on VS2008 with OpenCV2.1.
 How to run this?
 
 + It needs cvBlobsLib. For setup info, get here: http://dsynflo.blogspot.com/2010/02/cvblobskib-with-opencv-installation.html
-  Here's code for my test using cvblobs: http://dl.dropbox.com/u/110310945/Blobs%20test.rar
+  Here's code for my test using cvblobs: https://www.dropbox.com/s/llpkfbn90fgbxrj/Blobs%20test.rar?dl=0
 
 + Distance between two cameras in my project is 6 cm, you can chose father distance for the best result with your camera's type
 
